@@ -36,10 +36,7 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26" height="26"/> </a> 
 </p>
 
-
 <br />
-<br />
-
 ---
 
 <details>
