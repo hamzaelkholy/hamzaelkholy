@@ -43,7 +43,9 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Hamza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hamzaelkholy&show_icons=true&hide_border=true" />
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hamzaelkholy&show_icons=true&locale=en" alt="hamzaelkholy" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaelkholy&show_icons=true&locale=en&layout=compact" alt="hamzaelkholy" />  </p>
+  <br />
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hamzaelkholy&show_icons=true&locale=en" alt="hamzaelkholy" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaelkholy&show_icons=true&locale=en&layout=compact" alt="hamzaelkholy" />  </p>
 
 </details>
 
