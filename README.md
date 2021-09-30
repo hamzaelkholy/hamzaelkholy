@@ -47,8 +47,6 @@
 </details>
 
 
-
-
 [portfolio]: https://troopl.com/hamza
 [twitter]: https://twitter.com/hamzawy24?lang=en
 [linkedin]: https://www.linkedin.com/in/hamza-el-kholy/
