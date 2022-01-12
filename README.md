@@ -4,7 +4,7 @@
 
 - 🔭 I just graduated from a full-stack web development bootcamp
 - 🌱 I’m currently learning React
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Mastering JS & Contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball 🏀
 
 ### How to reach me:
